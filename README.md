@@ -1,3 +1,5 @@
+![logo](https://github.com/sameerhashim/sameerhashim/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sameer Hashim</h1>
 <h3 align="center">A passionate DevOps learner from Pakistan</h3>
 
